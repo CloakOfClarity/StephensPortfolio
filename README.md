@@ -1,6 +1,6 @@
 ## Description
 
-Stephen Hayes' Portfolio is a project which introduces Stephen Hayes and showcases some of his code.
+Stephen Hayes' Portfolio is a project which introduces me and showcases some of my code.
 
 ## Contributors
 
